@@ -1,0 +1,9 @@
+.imgDev{
+    width: 15%;
+    object-fit: contain;
+    border-radius: 25%;
+}
+
+.containerInfo{
+    margin-top: 10%;
+}
